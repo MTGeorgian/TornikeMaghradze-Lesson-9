@@ -1,0 +1,10 @@
+@keyframes headerlogo{
+	0% { text-shadow: 3px 3px 5px black; }
+	/*25% {text-shadow: -3px 3px 5px black;}*/
+	50% {text-shadow: -3px -3px 5px black;}
+	/*75% {text-shadow: 3px -3px 5px black;}*/
+	100% {text-shadow: 3px 3px 5px black;}
+}
+@keyframes blockanime{
+	from{ box-shadow: 5px 5px 10px 10px white inset, -5px -5px 10px 10px white inset;}
+}
